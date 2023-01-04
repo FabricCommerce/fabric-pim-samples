@@ -1,7 +1,0 @@
-"Hierarchy Node","SKU","Parent SKU","Title","Image","Published","Width","Bandwidth","Connector","Power","Storage","Length","Height","Manufacturer","Weight","Description"
-"Storage->Disk","SEAGATE500GB",,"Barracuda 500GB disk","http://example.com/seagate500.jpg","true","7","140MB/s seq read, 140MB/s seq write","SATA",,"500GB","10","0.7","Seagate",,"500GB 2.5inch 5400rpm spinning disk"
-"Storage->Disk","SEAGATE1000GB",,"Barracuda 1000GB disk","http://example.com/seagate1000.jpg","true","7","140MB/s seq read, 140MB/s seq write","SATA",,"1000GB","10","0.7","Seagate",,"1000GB 2.5inch 5400rpm spinning disk"
-"Storage->Disk","SEAGATE2000GB",,"Barracuda 2000GB disk","http://example.com/seagate2000.jpg","true","7","140MB/s seq read, 140MB/s seq write","SATA",,"2000GB","10","0.7","Seagate",,"2000GB 2.5inch 5400rpm spinning disk"
-"Storage->Disk","SEAGATE3000GB",,"Barracuda 3000GB disk","http://example.com/seagate3000.jpg","true","7","140MB/s seq read, 140MB/s seq write","SATA",,"3000GB","10","0.7","Seagate",,"3000GB 2.5inch 5400rpm spinning disk"
-"Storage->Disk","SEAGATE4000GB",,"Barracuda 4000GB disk","http://example.com/seagate4000.jpg","true","7","140MB/s seq read, 140MB/s seq write","SATA",,"4000GB","10","0.7","Seagate",,"4000GB 2.5inch 5400rpm spinning disk"
-"Storage->Disk","SEAGATE5000GB",,"Barracuda 5000GB disk","http://example.com/seagate5000.jpg","true","7","140MB/s seq read, 140MB/s seq write","SATA",,"5000GB","10","0.7","Seagate",,"5000GB 2.5inch 5400rpm spinning disk"
